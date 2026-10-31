@@ -1,0 +1,16 @@
+{
+  "name": "PGATS Automacao",
+  "password": "12345",
+  "birth_day": "1",
+  "birth_month": "May",
+  "birth_year": "1995",
+  "first_name": "Trakinas",
+  "last_name": "Mandalorian",
+  "company": "PGATS",
+  "address": "Rua dos Bobos, 0",
+  "country": "United States",
+  "state": "California",
+  "city": "San Francisco",
+  "zipcode": "11111111",
+  "mobile_number": "11111111111"
+}
